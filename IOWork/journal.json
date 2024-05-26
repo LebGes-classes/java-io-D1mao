@@ -1,0 +1,1 @@
+{"subjects":[],"professors":[{"subject":"Матан","name":"Олег Игоревич"},{"subject":"Физра","name":"Михаил Витальевич"},{"subject":"Дискра","name":"Александр Сергеевич"}],"students":[{"name":"Дмитрий","marks":[{"subject":"Матан","mark":45}]},{"name":"Владимир","marks":[{"subject":"Дискра","mark":59}]},{"name":"Руслан","marks":[{"subject":"Физра","mark":98}]}]}
